@@ -1,5 +1,4 @@
-# WebReinvent Rank Tracker (Assignment)
-
+3. Google Keyword Ranking Agent (CrewAI + Ollama + Serper.dev)
 This is a full-stack AI-powered application that tracks WebReinvent’s Google search rankings for specific keywords using an agentic system.
 
 ---
